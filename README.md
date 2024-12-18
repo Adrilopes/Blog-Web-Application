@@ -19,23 +19,6 @@ Technical Requirements
 	•	EJS: Templating engine for rendering structured pages.
 	•	CSS: Custom styling for an enhanced user experience.
 
-/project-root
-│
-├── views/                 # EJS templates for page structure
-│   └── pages/             # Subfolder for individual pages
-│       ├── index.ejs      # Home Page
-│       ├── about.ejs      # About Page
-│       ├── contact.ejs    # Contact Page
-│       ├── lamination.ejs # Lamination Page
-│       └── eyelash.ejs    # Eyelash Page
-│
-├── public/                # Static files (CSS, images, etc.)
-│   └── styles.css         # Custom styling for the website
-│
-├── server.js              # Entry point of the Node.js server
-└── package.json           # Dependencies and scripts
-
-
 How to Run
 	
     1.	Clone the repository:
@@ -61,8 +44,8 @@ Route	Description
 /eyelash	Renders the Eyelash page
 
 IMAGES
-![Imagem 1](public/Images/1.png)
-![Imagem 2](public/Images/2.png)
-![Imagem 3](public/Images/3.png)
-![Imagem 4](public/Images/4.png)
-![Imagem 5](public/Images/5.png)
+![Imagem 1](public/Imagesweb/1.png)
+![Imagem 2](public/Imagesweb/2.png)
+![Imagem 3](public/Imagesweb/3.png)
+![Imagem 4](public/Imagesweb/4.png)
+![Imagem 5](public/Imagesweb/5.png)
