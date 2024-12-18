@@ -44,8 +44,8 @@ Route	Description
 /eyelash	Renders the Eyelash page
 
 IMAGES
-![Imagem 1](public/Imagesweb/1.png)
-![Imagem 2](public/Imagesweb/2.png)
-![Imagem 3](public/Imagesweb/3.png)
-![Imagem 4](public/Imagesweb/4.png)
-![Imagem 5](public/Imagesweb/5.png)
+![Imagem 1](public/imagesweb/1.png)
+![Imagem 2](public/imagesweb/2.png)
+![Imagem 3](public/imagesweb/3.png)
+![Imagem 4](public/imagesweb/4.png)
+![Imagem 5](public/imagesweb/5.png)
